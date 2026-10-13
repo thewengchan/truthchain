@@ -1,7 +1,7 @@
 <script>
-  import AddSVG from "$lib/static/add.svelte";
-  import ReuploadSVG from "$lib/static/reupload.svelte";
-  import UploadSVG from "$lib/static/upload.svelte";
+  import AddSVG from "$lib/svg/add.svelte";
+  import ReuploadSVG from "$lib/svg/reupload.svelte";
+  import UploadSVG from "$lib/svg/upload.svelte";
 
   export let placeholder = "Placeholder";
   export let title = "Title";
